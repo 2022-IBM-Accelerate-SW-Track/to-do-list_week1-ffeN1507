@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import "./About.css";
+import <EEAO Final Self Crop-19> from "../assets/EEAO Final Self Crop-19.jpg";
   
 export default class About extends Component {
   render() {
